@@ -1,0 +1,665 @@
+/*-------------------------------------------------------------------*/
+/*  KOPUB FONTS */
+
+
+@font-face {
+	font-family : "KoPubBatang_Pro_Bold_otf";
+        src : url("../Fonts/Kopub/otf/KoPubBatang_Pro_Bold.otf");
+}
+
+
+@font-face {
+	font-family : "KoPubBatang_Pro_Light_otf";
+	src : url("../Fonts/Kopub/otf/KoPubBatang_Pro_Light.otf");
+}
+
+@font-face {
+	font-family : "KoPubBatang_Pro_Medium_otf";
+	src : url("../Fonts/Kopub/otf/KoPubBatang_Pro_Medium.otf");
+}
+
+@font-face {
+	font-family : "KoPubDotum_Pro_Bold_otf";
+	src : url("../Fonts/Kopub/otf/KoPubDotum_Pro_Bold.otf");
+}
+
+@font-face {
+	font-family : "KoPubDotum_Pro_Light_otf";
+	src : url("../Fonts/Kopub/otf/KoPubDotum_Pro_Light.otf");
+}
+
+@font-face {
+	font-family : "KoPubDotum_Pro_Medium_otf";
+	src : url("../Fonts/Kopub/otf/KoPubDotum_Pro_Medium.otf");
+}
+
+
+
+@font-face {
+        font-family : "KoPubBatang_Pro_Bold_woff";
+        src : url("../Fonts/Kopub/woff/KoPubBatang_Pro_Bold.woff");
+}
+
+@font-face {
+        font-family : "KoPubBatang_Pro_Light_woff";
+        src : url("../Fonts/Kopub/woff/KoPubBatang_Pro_Light.woff");
+}
+
+@font-face {
+        font-family : "KoPubBatang_Pro_Medium_woff";
+        src : url("../Fonts/Kopub/woff/KoPubBatang_Pro_Medium.woff");
+}
+
+@font-face {
+        font-family : "KoPubDotum_Pro_Bold_woff";
+        src : url("../Fonts/Kopub/woff/KoPubDotum_Pro_Bold.woff");
+}
+
+@font-face {
+        font-family : "KoPubDotum_Pro_Light_woff";
+        src : url("../Fonts/Kopub/woff/KoPubDotum_Pro_Light.woff");
+}
+
+@font-face {
+        font-family : "KoPubDotum_Pro_Medium_woff";
+        src : url("../Fonts/Kopub/woff/KoPubDotum_Pro_Medium.woff");
+}
+
+
+
+@font-face {
+        font-family : "KoPubBatang_Pro_Bold_woff2";
+        src : url("../Fonts/Kopub/woff2/KoPubBatang_Pro_Bold.woff2");
+}
+
+@font-face {
+        font-family : "KoPubBatang_Pro_Light_woff2";
+        src : url("../Fonts/Kopub/woff2/KoPubBatang_Pro_Light.woff2");
+}
+
+@font-face {
+        font-family : "KoPubBatang_Pro_Medium_woff2";
+        src : url("../Fonts/Kopub/woff2/KoPubBatang_Pro_Medium.woff2");
+}
+
+@font-face {
+        font-family : "KoPubDotum_Pro_Bold_woff2";
+        src : url("../Fonts/Kopub/woff2/KoPubDotum_Pro_Bold.woff2");
+}
+
+@font-face {
+        font-family : "KoPubDotum_Pro_Light_woff2";
+        src : url("../Fonts/Kopub/woff2/KoPubDotum_Pro_Light.woff2");
+}
+
+@font-face {
+        font-family : "KoPubDotum_Pro_Medium_woff2";
+        src : url("../Fonts/Kopub/woff2/KoPubDotum_Pro_Medium.woff2");
+}
+
+
+/*-------------------------------------------------------------------*/
+
+.kopubBatangProMediumOtf { font-family : "KoPubBatang_Pro_Medium_otf"; }
+.kopubBatangProLightOtf  { font-family : "KoPubBatang_Pro_Light_otf";  }
+.kopubBatangProBoldOtf   { font-family : "KoPubBatang_Pro_Bold_otf";   }
+
+.kopubDotumProMediumOtf { font-family : "KoPubDotum_Pro_Medium_otf"; }
+.kopubDotumProLightOtf  { font-family : "KoPubDotum_Pro_Light_otf";  }
+.kopubDotumProBoldOtf   { font-family : "KoPubDotum_Pro_Bold_otf";   }
+
+
+.kopubBatangProMediumWoff { font-family : "KoPubBatang_Pro_Medium_woff"; }
+.kopubBatangProLightWoff  { font-family : "KoPubBatang_Pro_Light_woff";  }
+.kopubBatangProBoldWoff   { font-family : "KoPubBatang_Pro_Bold_woff";   }
+
+.kopubDotumProMediumWoff { font-family : "KoPubDotum_Pro_Medium_woff"; }
+.kopubDotumProLightWoff  { font-family : "KoPubDotum_Pro_Light_woff";  }
+.kopubDotumProBoldWoff   { font-family : "KoPubDotum_Pro_Bold_woff";   }
+
+
+.kopubBatangProMediumWoff2 { font-family : "KoPubBatang_Pro_Medium_woff2"; }
+.kopubBatangProLightWoff2  { font-family : "KoPubBatang_Pro_Light_woff2";  }
+.kopubBatangProBoldWoff2   { font-family : "KoPubBatang_Pro_Bold_woff2";   }
+
+.kopubDotumProMediumWoff2 { font-family : "KoPubDotum_Pro_Medium_woff2"; }
+.kopubDotumProLightWoff2  { font-family : "KoPubDotum_Pro_Light_woff2";  }
+.kopubDotumProBoldWoff2   { font-family : "KoPubDotum_Pro_Bold_woff2";   }
+
+
+/*-------------------------------------------------------------------*/
+/* 아리따돋움체 FONTS */
+@font-face {
+	font-family : "AritaDotumBold";
+	src : url("../Fonts/Arita/AritaDotum/AritaDotumBold.otf");
+}
+
+@font-face {
+	font-family : "AritaDotumLight";
+	src : url("../Fonts/Arita/AritaDotum/AritaDotumLight.otf");
+}
+
+@font-face {
+	font-family : "AritaDotumMedium";
+	src : url("../Fonts/Arita/AritaDotum/AritaDotumMedium.otf");
+}
+
+@font-face {
+	font-family : "AritaDotumSemiBold";
+	src : url("../Fonts/Arita/AritaDotum/AritaDotumSemiBold.otf");
+}
+
+@font-face {
+	font-family : "AritaDotumThin";
+	src : url("../Fonts/Arita/AritaDotum/AritaDotumThin.otf");
+}
+/*-------------------------------------------------------------------*/
+
+.aritaDotumBold 	{ font-family : "AritaDotumBold"; }
+.aritaDotumLight  	{ font-family : "AritaDotumLight";  }
+.aritaDotumMedium   { font-family : "AritaDotumMedium";   }
+.aritaDotumSemiBold { font-family : "AritaDotumSemiBold"; }
+.aritaDotumThin  	{ font-family : "AritaDotumThin";  }
+
+/*-------------------------------------------------------------------*/
+/* 아리따부리체 FONTS */
+@font-face {
+	font-family : "Arita-buriB";
+	src : url("../Fonts/Arita/AritaBuri/Arita-buriB.otf");
+}
+
+@font-face {
+	font-family : "Arita-buriHL";
+	src : url("../Fonts/Arita/AritaBuri/Arita-buriHL.otf");
+}
+
+@font-face {
+	font-family : "Arita-buriL";
+	src : url("../Fonts/Arita/AritaBuri/Arita-buriL.otf");
+}
+
+@font-face {
+	font-family : "Arita-buriM";
+	src : url("../Fonts/Arita/AritaBuri/Arita-buriM.otf");
+}
+
+@font-face {
+	font-family : "Arita-buriSB";
+	src : url("../Fonts/Arita/AritaBuri/Arita-buriSB.otf");
+}
+/*-------------------------------------------------------------------*/
+
+.arita-buriB 	{ font-family : "Arita-buriB"; }
+.arita-buriHL  	{ font-family : "Arita-buriHL";  }
+.arita-buriL   	{ font-family : "Arita-buriL";   }
+.arita-buriM 	{ font-family : "Arita-buriM"; }
+.arita-buriSB  	{ font-family : "Arita-buriSB";  }
+
+/*-------------------------------------------------------------------*/
+/* 아리따부리체 FONTS */
+@font-face {
+	font-family : "AritaSans-Bold";
+	src : url("../Fonts/Arita/AritaSans/AritaSans-Bold.otf");
+}
+
+@font-face {
+	font-family : "AritaSans-Light";
+	src : url("../Fonts/Arita/AritaSans/AritaSans-Light.otf");
+}
+
+@font-face {
+	font-family : "AritaSans-Medium";
+	src : url("../Fonts/Arita/AritaSans/AritaSans-Medium.otf");
+}
+
+@font-face {
+	font-family : "AritaSans-SemiBold";
+	src : url("../Fonts/Arita/AritaSans/AritaSans-SemiBold.otf");
+}
+
+@font-face {
+	font-family : "AritaSans-Thin";
+	src : url("../Fonts/Arita/AritaSans/AritaSans-Thin.otf");
+}
+/*-------------------------------------------------------------------*/
+
+.aritaSans-Bold 	{ font-family : "AritaSans-Bold"; }
+.aritaSans-Light  	{ font-family : "AritaSans-Light";  }
+.aritaSans-Medium   { font-family : "AritaSans-Medium";   }
+.aritaSans-SemiBold { font-family : "AritaSans-SemiBold"; }
+.aritaSans-Thin  	{ font-family : "AritaSans-Thin";  }
+/*-------------------------------------------------------------------*/
+/* 아리따부흑체 FONTS */
+
+@font-face {
+	font-family : "Arita-Heiti";
+	src : url("../Fonts/Arita/AritaHeiti/Arita-Heiti.otf");
+}
+/*-------------------------------------------------------------------*/
+
+.arita-Heiti 		{ font-family : "Arita-Heiti"; }
+/*-------------------------------------------------------------------*/
+/* 네이버 FONTS */
+
+@font-face {
+	font-family : "D2Coding";
+	src : url("../Fonts/Naver/D2/D2Coding.ttf");
+}
+
+@font-face {
+	font-family : "D2CodingBold";
+	src : url("../Fonts/Naver/D2/D2CodingBold.ttf");
+}
+
+@font-face {
+	font-family : "NanumBrush";
+	src : url("../Fonts/Naver/Nanum/NanumBrush.otf");
+}
+
+@font-face {
+	font-family : "NanumGothic";
+	src : url("../Fonts/Naver/Nanum/NanumGothic.otf");
+}
+
+@font-face {
+	font-family : "NanumGothicBold";
+	src : url("../Fonts/Naver/Nanum/NanumGothicBold.otf");
+}
+
+@font-face {
+	font-family : "NanumGothicExtraBold";
+	src : url("../Fonts/Naver/Nanum/NanumGothicExtraBold.otf");
+}
+
+@font-face {
+	font-family : "NanumMyeongjo";
+	src : url("../Fonts/Naver/Nanum/NanumMyeongjo.otf");
+}
+
+@font-face {
+	font-family : "NanumMyeongjoBold";
+	src : url("../Fonts/Naver/Nanum/NanumMyeongjoBold.otf");
+}
+
+@font-face {
+	font-family : "NanumMyeongjoExtraBold";
+	src : url("../Fonts/Naver/Nanum/NanumMyeongjoExtraBold.otf");
+}
+
+@font-face {
+	font-family : "NanumPen";
+	src : url("../Fonts/Naver/Nanum/NanumPen.otf");
+}
+
+/*-------------------------------------------------------------------*/
+
+.d2Coding 					{ font-family : "D2Coding"; }
+.d2CodingBold 				{ font-family : "D2CodingBold"; }
+
+.nanumBrush 				{ font-family : "NanumBrush"; }
+.nanumGothic 				{ font-family : "NanumGothic"; }
+.nanumGothicBold 			{ font-family : "NanumGothicBold"; }
+.nanumGothicExtraBold 		{ font-family : "NanumGothicExtraBold"; }
+.nanumMyeongjo 				{ font-family : "NanumMyeongjo"; }
+.nanumMyeongjoBold 			{ font-family : "NanumMyeongjoBold"; }
+.nanumMyeongjoExtraBold 	{ font-family : "NanumMyeongjoExtraBold"; }
+.nanumMyeongjoExtraBold 	{ font-family : "NanumMyeongjoExtraBold"; }
+.nanumPen 					{ font-family : "NanumPen"; }
+
+
+/*-------------------------------------------------------------------*/
+/* 서울 FONTS */
+@font-face {
+        font-family : "SeoulHangangB";
+        src : url("../Fonts/Seoul/SeoulHangangB.otf");
+}
+
+@font-face {
+        font-family : "SeoulHangangBL";
+        src : url("../Fonts/Seoul/SeoulHangangBL.otf");
+}
+
+@font-face {
+        font-family : "SeoulHangangEB";
+        src : url("../Fonts/Seoul/SeoulHangangEB.otf");
+}
+
+@font-face {
+        font-family : "SeoulHangangL";
+        src : url("../Fonts/Seoul/SeoulHangangL.otf");
+}
+
+@font-face {
+        font-family : "SeoulHangangM";
+        src : url("../Fonts/Seoul/SeoulHangangM.otf");
+}
+
+@font-face {
+        font-family : "SeoulNamsanB";
+        src : url("../Fonts/Seoul/SeoulNamsanB.otf");
+}
+
+
+@font-face {
+        font-family : "SeoulNamsanBL";
+        src : url("../Fonts/Seoul/SeoulNamsanBL.otf");
+}
+
+
+@font-face {
+        font-family : "SeoulNamsanEB";
+        src : url("../Fonts/Seoul/SeoulNamsanEB.otf");
+}
+
+@font-face {
+        font-family : "SeoulNamsanL";
+        src : url("../Fonts/Seoul/SeoulNamsanL.otf");
+}
+
+@font-face {
+        font-family : "SeoulNamsanM";
+        src : url("../Fonts/Seoul/SeoulNamsanM.otf");
+}
+/*-------------------------------------------------------------------*/
+
+.seoulHangangB    { font-family : "SeoulHangangB"; }
+.seoulHangangBL   { font-family : "SeoulHangangBL";}
+.seoulHangangEB   { font-family : "SeoulHangangEB";}
+.seoulHangangL    { font-family : "SeoulHangangL"; }
+.seoulHangangM    { font-family : "SeoulHangangM"; }
+.seoulNamsanB     { font-family : "SeoulNamsanB";  }
+.seoulNamsanBL    { font-family : "SeoulNamsanBL"; }
+.seoulNamsanEB    { font-family : "SeoulNamsanEB"; }
+.seoulNamsanL     { font-family : "SeoulNamsanL";  }
+.seoulNamsanM     { font-family : "SeoulNamsanM";  }
+/*-------------------------------------------------------------------*/
+
+
+
+/*-------------------------------------------------------------------*/
+/* 제주 FONTS */
+@font-face {
+        font-family : "JejuGothicOTF";
+        src : url("../Fonts/Jeju/JejuGothicOTF.otf");
+}
+
+@font-face {
+        font-family : "JejuHallasanOTF";
+        src : url("../Fonts/Jeju/JejuHallasanOTF.otf");
+}
+
+@font-face {
+        font-family : "JejuMyeongjoOTF";
+        src : url("../Fonts/Jeju/JejuMyeongjoOTF.otf");
+}
+
+/*-------------------------------------------------------------------*/
+.jejuGothicOTF    { font-family : "JejuGothicOTF"; }
+.jejuHallasanOTF  { font-family : "JejuHallasanOTF";}
+.jejuMyeongjoOTF  { font-family : "JejuMyeongjoOTF";}
+/*-------------------------------------------------------------------*/
+
+/*-------------------------------------------------------------------*/
+/* 고양 FONTS */
+@font-face {
+        font-family : "Goyang";
+        src : url("../Fonts/Goyang/Goyang.otf");
+}
+
+/*-------------------------------------------------------------------*/
+.goyang    { font-family : "Goyang"; }
+/*-------------------------------------------------------------------*/
+
+
+/*-------------------------------------------------------------------*/
+/* 이롭게 FONTS */
+@font-face {
+        font-family : "IropkeBatangM";
+        src : url("../Fonts/Iropke/IropkeBatangM.woff");
+}
+
+/*-------------------------------------------------------------------*/
+.iropkeBatangM     { font-family : "IropkeBatangM"; }
+/*-------------------------------------------------------------------*/
+
+
+/*-------------------------------------------------------------------*/
+/* 은글꼴 FONTS */
+@font-face {
+        font-family : "UnBatang";
+        src : url("../Fonts/Unfonts/UnBatang.ttf");
+}
+
+@font-face {
+        font-family : "UnDinaru";
+        src : url("../Fonts/Unfonts/UnDinaru.ttf");
+}
+
+
+@font-face {
+        font-family : "UnDinaruBold";
+        src : url("../Fonts/Unfonts/UnDinaruBold.ttf");
+}
+
+@font-face {
+        font-family : "UnDotum";
+        src : url("../Fonts/Unfonts/UnDotum.ttf");
+}
+
+@font-face {
+        font-family : "UnGraphicBold";
+        src : url("../Fonts/Unfonts/UnGraphicBold.ttf");
+}
+
+@font-face {
+        font-family : "UnJamoNovel";
+        src : url("../Fonts/Unfonts/UnJamoNovel.ttf");
+}
+
+@font-face {
+        font-family : "UnJamoSora";
+        src : url("../Fonts/Unfonts/UnJamoSora.ttf");
+}
+
+@font-face {
+        font-family : "UnPenHeulim";
+        src : url("../Fonts/Unfonts/UnPenheulim.ttf");
+}
+
+@font-face {
+        font-family : "UnPilgiBold";
+        src : url("../Fonts/Unfonts/UnPilgiBold.ttf");
+}
+
+@font-face {
+        font-family : "UnTaza";
+        src : url("../Fonts/Unfonts/UnTaza.ttf");
+}
+
+@font-face {
+        font-family : "UnYetgul";
+        src : url("../Fonts/Unfonts/UnYetgul.ttf");
+}
+/*-------------------------------------------------------------------*/
+.unBatang     { font-family : "UnBatang"; }
+.unDinaru     { font-family : "UnDinaru"; }
+.unDinaruBold { font-family : "UnDinaruBold"; }
+.unDotum      { font-family : "UnDotum"; }
+.unGraphicBold{ font-family : "UnGraphicBold"; }
+.unJamoNovel  { font-family : "UnJamoNovel"; }
+.unJamoSora   { font-family : "UnJamoSora"; }
+.unPenheulim  { font-family : "UnPenheulim"; }
+.unPilgiBold  { font-family : "UnPilgiBold"; }
+.unTaza       { font-family : "UnTaza"; }
+.unYetgul     { font-family : "UnYetgul"; }
+/*-------------------------------------------------------------------*/
+
+
+@font-face {
+        font-family :"HangulTeulGothic";
+        src : url("../Fonts/HangulTeulGothic/HangulTeulGothic.ttf");
+}
+/*-------------------------------------------------------------------*/
+.hangulTeulGothic     { font-family : "HangulTeulgothic"; }
+/*-------------------------------------------------------------------*/
+
+
+@font-face {
+        font-family :"SamsungOne-400";
+        src : url("../Fonts/Samsung/SamsungOne-400_v1.1.ttf");
+}
+
+@font-face {
+        font-family :"SamsungOne-500";
+        src : url("../Fonts/Samsung/SamsungOne-500_v1.1.ttf");
+}
+
+/*-------------------------------------------------------------------*/
+.samsungOne-400     { font-family : "SamsungOne-400"; }
+.samsungOne-500     { font-family : "SamsungOne-500"; }
+/*-------------------------------------------------------------------*/
+
+
+.displaynone {display:none;}
+
+.mainColumn1 {
+-moz-column-count: 1;
+-webkit-column-count: 1;
+column-count: 1;
+}
+
+
+.mainColumn2 {
+-moz-column-count: 2;
+-webkit-column-count: 2;
+column-count: 2;
+}
+
+.mainColumn3 {
+-moz-column-count: 3;
+-webkit-column-count: 3;
+column-count: 3;
+}
+
+/*
+.menuMobileWidth {
+	font-size: 0.6em;
+}
+*/
+
+#lineHeightChange, #fontSizeChange, #language {
+	text-indent: 0.5em;
+	font-size: 0.8em;
+	color: #6F4664;
+	border-bottom: 0.1em solid #A5C5F0;
+	display: inline;
+}
+
+.lineHeightMenu, .fontSizeMenu, .langmenu {
+	cursor:pointer;
+}
+
+h3 {
+	text-indent: 0.5em;
+	font-size: 1.5em;
+	color: #b3b3ff /*#000000*/ /*#6F4664;*/
+}
+
+.fontmain {
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	border-top: 0.1em solid #A5C5F0;
+	border-bottom: 0.1em solid #A5C5F0;
+}
+
+.fonttest {
+	padding: 1em;
+	background: #FAFAFA; /*#FCFCFC;*/
+	border-radius: 0.5em;
+	/*box-shadow: 2px 2px 2px lightgray;*/
+	margin-bottom: 3em;
+	font-size: 1em;
+	line-height: 1.5em;
+}
+
+.returnToList {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.title {
+	text-align:center;
+	border-bottom: 0.1em solid #A5C5F0;
+	margin-bottom: 1.5em;
+        padding-left:20%;
+        padding-right:20%;
+}
+
+.indexColumn1{
+        -moz-column-count: 1;
+        -webkit-column-count: 1;
+        column-count: 1;
+
+        padding-left:5%;
+        padding-right:5:%;
+}
+
+.indexColumn2 {
+        -moz-column-count: 2;
+        -webkit-column-count: 2;
+        column-count: 2;
+
+        padding-left:20%;
+        padding-right:20%;
+}
+
+.indexColumn2Mobile {
+        -moz-column-count: 2;
+        -webkit-column-count: 2;
+        column-count: 2;
+
+        padding-left:5%;
+        padding-right:5%;
+}
+
+/*
+.indexColumn {
+	-moz-column-count: 2;
+	-webkit-column-count: 2;
+	column-count: 2;
+
+        padding-left:20%;
+        padding-right:20%;
+}
+*/
+
+.index_title{
+        text-indent: 0.2em;
+        font-size: 1.1em;
+        color: #000000; /*#b3b3ff;*/
+        line-height: 1.5em;
+        cursor: pointer;
+        text-decoration:none;
+}
+
+.index_title a{
+        text-indent: 0.2em;
+        font-size: 1.1em;
+        color: #000000;/*#b3b3ff;*/
+        line-height: 1.5em;
+        cursor: pointer;
+        text-decoration:none;
+}
+
+body {
+	padding: 1em;
+}
+
+.mainBorderRadius {
+	border-radius: 10px; 
+	border:1px solid;
+	padding-top:2%;
+	padding-bottom:2%;
+	padding-left:2%;
+	padding-right:2%;
+}
