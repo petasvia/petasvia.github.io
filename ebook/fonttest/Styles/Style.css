@@ -161,6 +161,7 @@
 .aritaDotumSemiBold { font-family : "AritaDotumSemiBold"; }
 .aritaDotumThin  	{ font-family : "AritaDotumThin";  }
 
+
 /*-------------------------------------------------------------------*/
 /* 아리따부리체 FONTS */
 @font-face {
@@ -518,6 +519,17 @@
 .samsungOne-400     { font-family : "SamsungOne-400"; }
 .samsungOne-500     { font-family : "SamsungOne-500"; }
 /*-------------------------------------------------------------------*/
+
+
+/*-------------------------------------------------------------------*/
+.kyobo-handwriting2019 { font-family : "kyobo-handwriting2019"; }
+/*-------------------------------------------------------------------*/
+
+@font-face {
+        font-family :"kyobo-handwriting2019";
+        src : url("../Fonts/Kyobo/kyobohandwriting2019.ttf");
+}
+
 
 
 .displaynone {display:none;}
