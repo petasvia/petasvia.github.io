@@ -523,13 +523,39 @@
 
 /*-------------------------------------------------------------------*/
 .kyobo-handwriting2019 { font-family : "kyobo-handwriting2019"; }
+.kyobo-handwriting2020 { font-family : "kyobo-handwriting2020"; }
+.kyobo-handwriting2021 { font-family : "kyobo-handwriting2021"; }
+
+.kyobo-handwriting2019OTF { font-family : "kyobo-handwriting2019OTF"; }
+.kyobo-handwriting2020OTF { font-family : "kyobo-handwriting2020OTF"; }
+.kyobo-handwriting2021OTF { font-family : "kyobo-handwriting2021OTF"; }
+
 /*-------------------------------------------------------------------*/
 
 @font-face {
         font-family :"kyobo-handwriting2019";
-        src : url("../Fonts/Kyobo/kyobohandwriting2019.ttf");
+        src : url("../Fonts/Kyobo/kyoboHandwriting2019.ttf");
 }
-
+@font-face {
+        font-family :"kyobo-handwriting2020";
+        src : url("../Fonts/Kyobo/kyoboHandwriting2020pdy.ttf");
+}
+@font-face {
+        font-family :"kyobo-handwriting2021";
+        src : url("../Fonts/Kyobo/kyoboHandwriting2021sjy.ttf");
+}
+@font-face {
+        font-family :"kyobo-handwriting2019OTF";
+        src : url("../Fonts/Kyobo/kyoboHandwriting2019.otf");
+}
+@font-face {
+        font-family :"kyobo-handwriting2020OTF";
+        src : url("../Fonts/Kyobo/kyoboHandwriting2020pdy.otf");
+}
+@font-face {
+        font-family :"kyobo-handwriting2021OTF";
+        src : url("../Fonts/Kyobo/kyoboHandwriting2021sjy.otf");
+}
 
 
 .displaynone {display:none;}
