@@ -522,38 +522,38 @@
 
 
 /*-------------------------------------------------------------------*/
-.kyobo-handwriting2019 { font-family : "kyobo-handwriting2019"; }
-.kyobo-handwriting2020 { font-family : "kyobo-handwriting2020"; }
-.kyobo-handwriting2021 { font-family : "kyobo-handwriting2021"; }
+.Kyobo-handwriting2019 { font-family : "Kyobo-handwriting2019"; }
+.Kyobo-handwriting2020 { font-family : "Kyobo-handwriting2020"; }
+.Kyobo-handwriting2021 { font-family : "Kyobo-handwriting2021"; }
 
-.kyobo-handwriting2019OTF { font-family : "kyobo-handwriting2019OTF"; }
-.kyobo-handwriting2020OTF { font-family : "kyobo-handwriting2020OTF"; }
-.kyobo-handwriting2021OTF { font-family : "kyobo-handwriting2021OTF"; }
+.Kyobo-handwriting2019OTF { font-family : "Kyobo-handwriting2019OTF"; }
+.Kyobo-handwriting2020OTF { font-family : "Kyobo-handwriting2020OTF"; }
+.Kyobo-handwriting2021OTF { font-family : "Kyobo-handwriting2021OTF"; }
 
 /*-------------------------------------------------------------------*/
 
 @font-face {
-        font-family :"kyobo-handwriting2019";
+        font-family :"Kyobo-handwriting2019";
         src : url("../Fonts/Kyobo/KyoboHandwriting2019.ttf");
 }
 @font-face {
-        font-family :"kyobo-handwriting2020";
+        font-family :"Kyobo-handwriting2020";
         src : url("../Fonts/Kyobo/KyoboHandwriting2020pdy.ttf");
 }
 @font-face {
-        font-family :"kyobo-handwriting2021";
+        font-family :"Kyobo-handwriting2021";
         src : url("../Fonts/Kyobo/KyoboHandwriting2021sjy.ttf");
 }
 @font-face {
-        font-family :"kyobo-handwriting2019OTF";
+        font-family :"Kyobo-handwriting2019OTF";
         src : url("../Fonts/Kyobo/KyoboHandwriting2019.otf");
 }
 @font-face {
-        font-family :"kyobo-handwriting2020OTF";
+        font-family :"Kyobo-handwriting2020OTF";
         src : url("../Fonts/Kyobo/KyoboHandwriting2020pdy.otf");
 }
 @font-face {
-        font-family :"kyobo-handwriting2021OTF";
+        font-family :"Kyobo-handwriting2021OTF";
         src : url("../Fonts/Kyobo/KyoboHandwriting2021sjy.otf");
 }
 
